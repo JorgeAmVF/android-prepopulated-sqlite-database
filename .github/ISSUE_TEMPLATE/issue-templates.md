@@ -1,3 +1,9 @@
+---
+name: Issue templates
+about: default guidelines
+
+---
+
 # Issue Templates
 
 ## Bug report
