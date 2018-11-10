@@ -23,7 +23,7 @@ An ExpandableListView with a SimpleCursorTreeAdapter for a prepopulated SQLite d
 Soon.
 
 ## Contributing
-This sample is open to contributions; please, read [Contributing guidelines](/CONTRIBUTING.md) before opening new [issues](https://github.com/QuaestioOrg/kotlin-converted-webview/issues) or submitting [pull requests](https://github.com/QuaestioOrg/kotlin-converted-webview/pulls) to this repository.
+This sample is open to contributions; please, read [Contributing guidelines](/CONTRIBUTING.md) before opening new [issues](https://github.com/JorgeAmVF/android-prepopulated-sqlite-database/issues) or submitting [pull requests](https://github.com/JorgeAmVF/android-prepopulated-sqlite-database/issues/pulls) to this repository.
 
 ## Credits
 A special thanks to [Tanya Kurinenko](https://github.com/tkurinenko)'s [SimpleCursorTreeAdapter sample](https://github.com/tkurinenko/strandr/tree/master/SimpleCursorTreeAdapter) and to [Jeff Gilfelt](https://github.com/jgilfelt)'s [AndroidSQLiteAssetHelper library](https://github.com/jgilfelt/android-sqlite-asset-helper) for providing high quality open source software.
