@@ -3,7 +3,7 @@
 [![API](https://img.shields.io/badge/API-17%2B-brightgreen.svg?style=flat)](https://developer.android.com/about/versions/android-4.2)
 
 ## Description
-An ExpandableListView with a SimpleCursorTreeAdapter for a prepopulated SQLite database using SQLiteAssetHelper.
+An [ExpandableListView](https://developer.android.com/reference/android/widget/ExpandableListView) with a [SimpleCursorTreeAdapter](https://developer.android.com/reference/android/widget/SimpleCursorTreeAdapter) for a prepopulated [SQLite](https://www.sqlite.org/index.html) database using [SQLiteAssetHelper](https://github.com/jgilfelt/android-sqlite-asset-helper).
 
 ## Table of Contents
 * [Installation](#installation)
