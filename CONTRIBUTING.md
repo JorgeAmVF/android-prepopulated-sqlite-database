@@ -14,7 +14,7 @@ Do search and read about the previous submitted entries prior to submit new ones
 
 ### Issues
 
-[**Issues**](https://github.com/QuaestioOrg/kotlin-converted-webview/issues) are generally opened by the author of this sample, but contributors may specially open new issues whenever they stumble upon official warnings notified by Android Studio code inspection during the use of the sample which have not been reported by the repository owner previously.
+[**Issues**](https://github.com/JorgeAmVF/android-prepopulated-sqlite-database/issues) are generally opened by the author of this sample, but contributors may specially open new issues whenever they stumble upon official warnings notified by Android Studio code inspection during the use of the sample which have not been reported by the repository owner previously.
 
 Be sure to clearly entitle and comment the issue by providing relevant information and a code sample or a test demonstration.
 
@@ -38,7 +38,7 @@ Just follow the [**Issue Template**](https://github.com/QuaestioOrg/kotlin-conve
 
 ### Pull Requests
 
-[**Pull Requests**](https://github.com/QuaestioOrg/kotlin-converted-webview/pulls) must clearly describe the problem and the solution so as to demostrate its validity and associate the issues related.
+[**Pull Requests**](https://github.com/JorgeAmVF/android-prepopulated-sqlite-database/pulls) must clearly describe the problem and the solution so as to demostrate its validity and associate the issues related.
 
 ## References
 
