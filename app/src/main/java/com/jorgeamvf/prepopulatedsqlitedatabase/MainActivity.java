@@ -82,7 +82,8 @@ public class MainActivity extends AppCompatActivity {
          */
         expandableListView = findViewById(R.id.expandableListview);
         expandableListView.setAdapter(simplecursortreeAdapter);
-
+        
+        stopManagingCursor(cursor);
     }
 
     /*
